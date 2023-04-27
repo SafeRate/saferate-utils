@@ -106,3 +106,5 @@ dist
 .dccache
 .DS_Store
 *.tgz
+
+lib
